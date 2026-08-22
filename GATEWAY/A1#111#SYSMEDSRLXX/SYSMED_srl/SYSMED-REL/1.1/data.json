@@ -1,0 +1,259 @@
+{
+	"appVendor": "Sysmed srl",
+	"appID": "SYSMED-REL",
+	"appVersion": "1.1",
+	"results": [
+		{
+			"id": 29,
+			"ts":"2026-08-21T13:42:41Z",
+			"traceId": "9edbe5050d7cf75a1ffa52196a31e5bd",
+			"workflowInstanceId": "UNKNOWN_WORKFLOW_ID",
+			"files": [ "ldo-29.pdf" ]
+		},
+		{
+			"id": 37,
+			"ts":"2026-08-21T13:39:51Z",
+			"traceId": "a44adfaa9d27eeace1238ccc0939f1d4",
+			"workflowInstanceId": "UNKNOWN_WORKFLOW_ID",
+			"files": [ "ldo-37.pdf" ]
+		},
+		{
+			"id": 64,
+			"ts":"2026-08-17T15:40:20Z",
+			"traceId": "0f89a7218b61c5bc2dc037d20bf859d7",
+			"workflowInstanceId": "2.16.840.1.113883.2.9.2.10.4.4.8034625e255abf15e3fdbd14f0383777b3acd4cee6643fd99c102c599975eca1.c4767efb47^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+			"files": [ "ldo-6-64.pdf" ]
+		},
+		{
+			"id": 66,
+			"ts":"2026-08-17T15:42:21Z",
+			"traceId": "28f7d3b9d458a2a4935e3fe8d89c36de",
+			"workflowInstanceId": "2.16.840.1.113883.2.9.2.10.4.4.8034625e255abf15e3fdbd14f0383777b3acd4cee6643fd99c102c599975eca1.e093bf9c01^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+			"files": [ "ldo-8-66.pdf" ]
+		},
+		{
+			"id": 67,
+			"ts":"2026-08-17T15:40:42Z",
+			"traceId": "a48369d80f6e23710d051a94ce38f67a",
+			"workflowInstanceId": "2.16.840.1.113883.2.9.2.10.4.4.8034625e255abf15e3fdbd14f0383777b3acd4cee6643fd99c102c599975eca1.d51cedb686^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+			"files": [ "ldo-9-67.pdf" ]
+		},
+		{
+			"id": 68,
+			"ts":"2026-08-17T15:44:39Z",
+			"traceId": "2f020e99205abc01c06222a5aa37b3e7",
+			"workflowInstanceId": "2.16.840.1.113883.2.9.2.10.4.4.8034625e255abf15e3fdbd14f0383777b3acd4cee6643fd99c102c599975eca1.292d74f6ec^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+			"files": [ "ldo-10-68.pdf" ]
+		},
+		{
+			"id": 69,
+			"ts":"2026-08-17T16:09:09Z",
+			"traceId": "1117daab6d88cf732e9798a1c411751f",
+			"workflowInstanceId": "2.16.840.1.113883.2.9.2.10.4.4.8034625e255abf15e3fdbd14f0383777b3acd4cee6643fd99c102c599975eca1.59cee2bd45^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+			"files": [ "ldo-11-69.pdf" ]
+		},
+		{
+			"id": 70,
+			"ts":"2026-08-17T16:09:18Z",
+			"traceId": "18c7050421c5c14cc49014420a8002e7",
+			"workflowInstanceId": "2.16.840.1.113883.2.9.2.10.4.4.8034625e255abf15e3fdbd14f0383777b3acd4cee6643fd99c102c599975eca1.eb5ee9e294^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+			"files": [ "ldo-12-70.pdf" ]
+		},
+		{
+			"id": 71,
+			"ts":"2026-08-17T16:09:23Z",
+			"traceId": "8a30c69a26c7643895b470a8c19aabbe",
+			"workflowInstanceId": "2.16.840.1.113883.2.9.2.10.4.4.8034625e255abf15e3fdbd14f0383777b3acd4cee6643fd99c102c599975eca1.e6a74a4360^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+			"files": [ "ldo-13-71.pdf" ]
+		},
+		{
+			"id": 72,
+			"ts":"2026-08-17T16:09:28Z",
+			"traceId": "4db270239817670a3aeeedcce22d79b6",
+			"workflowInstanceId": "2.16.840.1.113883.2.9.2.10.4.4.8034625e255abf15e3fdbd14f0383777b3acd4cee6643fd99c102c599975eca1.a717f1d93b^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+			"files": [ "ldo-14-72.pdf" ]
+		},
+		{
+			"id": 73,
+			"ts":"2026-08-17T16:09:45Z",
+			"traceId": "f67e0c47843e0b039ec5b3bd1c9254ea",
+			"workflowInstanceId": "2.16.840.1.113883.2.9.2.10.4.4.8034625e255abf15e3fdbd14f0383777b3acd4cee6643fd99c102c599975eca1.d557139b66^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+			"files": [ "ldo-15-73.pdf" ]
+		},
+		{
+			"id": 74,
+			"ts":"2026-08-17T16:09:50Z",
+			"traceId": "0c9e63fa2dc95917e987d18553cac93b",
+			"workflowInstanceId": "2.16.840.1.113883.2.9.2.10.4.4.8034625e255abf15e3fdbd14f0383777b3acd4cee6643fd99c102c599975eca1.1ba00f832a^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+			"files": [ "ldo-16-74.pdf" ]
+		},
+		{
+			"id": 450,
+			"ts":"2026-08-17T16:13:20Z",
+			"traceId": "2f0410c387ec29331221ea270d008ef2",
+			"workflowInstanceId": "2.16.840.1.113883.2.9.2.10.4.4.8034625e255abf15e3fdbd14f0383777b3acd4cee6643fd99c102c599975eca1.ec1626d894^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+			"files": [ "ldo-17-450.pdf" ]
+		},
+		{
+			"id": 451,
+			"ts":"2026-08-17T16:14:17Z",
+			"traceId": "634683a060c8e0d03e83cc0660e12625",
+			"workflowInstanceId": "2.16.840.1.113883.2.9.2.10.4.4.8034625e255abf15e3fdbd14f0383777b3acd4cee6643fd99c102c599975eca1.d4b9e35a64^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+			"files": [ "ldo-18-451.pdf" ]
+		},
+		{
+			"id": 467,
+			"ts":"2026-08-17T16:09:57Z",
+			"traceId": "baf3da9318e4daf66b98422f4dc345a0",
+			"workflowInstanceId": "2.16.840.1.113883.2.9.2.10.4.4.8034625e255abf15e3fdbd14f0383777b3acd4cee6643fd99c102c599975eca1.3af0cd47de^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+			"files": [ "ldo-19-467.pdf" ]
+		},
+		{
+			"id": 32,
+			"ts":"2026-08-21T13:42:45Z",
+			"traceId": "51b869190bd4c2d806966c2f23fe611d",
+			"workflowInstanceId": "UNKNOWN_WORKFLOW_ID",
+			"files": [ "rsa-32.pdf" ]
+		},
+		{
+			"id": 40,
+			"ts":"2026-08-21T13:39:59Z",
+			"traceId": "f1f33860568c4d68d407cef30243d622",
+			"workflowInstanceId": "UNKNOWN_WORKFLOW_ID",
+			"files": [ "rsa-40.pdf" ]
+		},
+		{
+			"id": 152,
+			"ts":"2026-08-21T09:20:41Z",
+			"traceId": "878a425e9db1b533302d59be8047f71e",
+			"workflowInstanceId": "2.16.840.1.113883.2.9.2.10.4.4.0a6ddd53ee05aeec298ad5a1694d528a536460ec3a18ae371036fef4a7ed704c.603e9243ac^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+			"files": [ "rsa-6-152.pdf" ]
+		},
+		{
+			"id": 154,
+			"ts":"2026-08-21T09:20:29Z",
+			"traceId": "e2bf20bb77e39390c17074845bd9975a",
+			"workflowInstanceId": "2.16.840.1.113883.2.9.2.10.4.4.0a6ddd53ee05aeec298ad5a1694d528a536460ec3a18ae371036fef4a7ed704c.8ce5bffe6a^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+			"files": [ "rsa-8-154.pdf" ]
+		},
+		{
+			"id": 155,
+			"ts":"2026-08-21T09:20:26Z",
+			"traceId": "527e6815aa1a7f3ce993b4e72fe30576",
+			"workflowInstanceId": "2.16.840.1.113883.2.9.2.10.4.4.0a6ddd53ee05aeec298ad5a1694d528a536460ec3a18ae371036fef4a7ed704c.3168515e42^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+			"files": [ "rsa-9-155.pdf" ]
+		},
+		{
+			"id": 156,
+			"ts":"2026-08-21T09:20:23Z",
+			"traceId": "d13c2017a61b3bd27451453bfaf0d4dc",
+			"workflowInstanceId": "2.16.840.1.113883.2.9.2.10.4.4.0a6ddd53ee05aeec298ad5a1694d528a536460ec3a18ae371036fef4a7ed704c.714888a1a3^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+			"files": [ "rsa-10-156.pdf" ]
+		},
+		{
+			"id": 159,
+			"ts":"2026-08-21T09:20:21Z",
+			"traceId": "6aa5d623bd31633c812c84447d15181b",
+			"workflowInstanceId": "2.16.840.1.113883.2.9.2.10.4.4.0a6ddd53ee05aeec298ad5a1694d528a536460ec3a18ae371036fef4a7ed704c.85a6218656^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+			"files": [ "rsa-13-159.pdf" ]
+		},
+		{
+			"id": 160,
+			"ts":"2026-08-21T09:20:17Z",
+			"traceId": "2ebe64d863b9f185381f267704bf4f50",
+			"workflowInstanceId": "2.16.840.1.113883.2.9.2.10.4.4.0a6ddd53ee05aeec298ad5a1694d528a536460ec3a18ae371036fef4a7ed704c.44ea8c5ccf^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+			"files": [ "rsa-14-160.pdf" ]
+		},
+		{
+			"id": 161,
+			"ts":"2026-08-21T09:20:15Z",
+			"traceId": "579d94ebccb8ea28edc31185c62d8d79",
+			"workflowInstanceId": "2.16.840.1.113883.2.9.2.10.4.4.0a6ddd53ee05aeec298ad5a1694d528a536460ec3a18ae371036fef4a7ed704c.a36289be75^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+			"files": [ "rsa-15-161.pdf" ]
+		},
+		{
+			"id": 162,
+			"ts":"2026-08-21T09:20:12Z",
+			"traceId": "488de50a586cd39158135c5bd66e5a29",
+			"workflowInstanceId": "2.16.840.1.113883.2.9.2.10.4.4.0a6ddd53ee05aeec298ad5a1694d528a536460ec3a18ae371036fef4a7ed704c.52de97ba11^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+			"files": [ "rsa-16-162.pdf" ]
+		},
+		{
+			"id": 163,
+			"ts":"2026-08-21T09:20:07Z",
+			"traceId": "8975e68ec6a9a1a798a742bf6699e723",
+			"workflowInstanceId": "2.16.840.1.113883.2.9.2.10.4.4.0a6ddd53ee05aeec298ad5a1694d528a536460ec3a18ae371036fef4a7ed704c.499b73b1f1^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+			"files": [ "rsa-17-163.pdf" ]
+		},
+		{
+			"id": 164,
+			"ts":"2026-08-21T09:20:02Z",
+			"traceId": "4e2dadb5b48d74356c0aa65dfab0135d",
+			"workflowInstanceId": "2.16.840.1.113883.2.9.2.10.4.4.0a6ddd53ee05aeec298ad5a1694d528a536460ec3a18ae371036fef4a7ed704c.0358e3ab7d^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+			"files": [ "rsa-18-164.pdf" ]
+		},
+		{
+			"id": 165,
+			"ts":"2026-08-21T09:19:57Z",
+			"traceId": "9897061903f853ce60553666bfa40f38",
+			"workflowInstanceId": "2.16.840.1.113883.2.9.2.10.4.4.0a6ddd53ee05aeec298ad5a1694d528a536460ec3a18ae371036fef4a7ed704c.ea96895b66^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+			"files": [ "rsa-19-165.pdf" ]
+		},
+		{
+			"id": 166,
+			"ts":"2026-08-21T09:19:54Z",
+			"traceId": "9afd25f56d4e66f0f75dcc8e4b4b6d18",
+			"workflowInstanceId": "2.16.840.1.113883.2.9.2.10.4.4.0a6ddd53ee05aeec298ad5a1694d528a536460ec3a18ae371036fef4a7ed704c.191011d71f^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+			"files": [ "rsa-20-166.pdf" ]
+		}
+		{
+			"id": 167,
+			"ts":"2026-08-21T09:19:50Z",
+			"traceId": "a704c41ae3bd573a13aec2da16e7a7b1",
+			"workflowInstanceId": "2.16.840.1.113883.2.9.2.10.4.4.0a6ddd53ee05aeec298ad5a1694d528a536460ec3a18ae371036fef4a7ed704c.b6adf8e4df^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+			"files": [ "rsa-21-167.pdf" ]
+		}
+		{
+			"id": 168,
+			"ts":"2026-08-21T09:19:46Z",
+			"traceId": "ca4b41d3c59821b49ef8a7322d355181",
+			"workflowInstanceId": "2.16.840.1.113883.2.9.2.10.4.4.0a6ddd53ee05aeec298ad5a1694d528a536460ec3a18ae371036fef4a7ed704c.5ddd2dd23e^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+			"files": [ "rsa-22-168.pdf" ]
+		}
+		{
+			"id": 448,
+			"ts":"2026-08-21T09:20:47Z",
+			"traceId": "f3562e131e9424928c7da8cc7f79afc2",
+			"workflowInstanceId": "2.16.840.1.113883.2.9.2.10.4.4.0a6ddd53ee05aeec298ad5a1694d528a536460ec3a18ae371036fef4a7ed704c.0dbd550adc^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+			"files": [ "rsa-24-448.pdf" ]
+		}
+		{
+			"id": 449,
+			"ts":"2026-08-21T09:20:39Z",
+			"traceId": "08cf9d110b42a83035ae9ec91906bf2f",
+			"workflowInstanceId": "2.16.840.1.113883.2.9.2.10.4.4.0a6ddd53ee05aeec298ad5a1694d528a536460ec3a18ae371036fef4a7ed704c.a40b99ec58^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+			"files": [ "rsa-25-449.pdf" ]
+		}
+		{
+			"id": 461,
+			"ts":"2026-08-21T09:19:37Z",
+			"traceId": "89bb7930b31f28f1c9b189a7fc7e9516",
+			"workflowInstanceId": "2.16.840.1.113883.2.9.2.10.4.4.0a6ddd53ee05aeec298ad5a1694d528a536460ec3a18ae371036fef4a7ed704c.52bf2f2d72^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+			"files": [ "rsa-26-461.pdf" ]
+		}
+		{
+			"id": 468,
+			"ts":"2026-08-21T09:19:34Z",
+			"traceId": "88cc34e6b1b8945c10ae963a8df735a2",
+			"workflowInstanceId": "2.16.840.1.113883.2.9.2.10.4.4.0a6ddd53ee05aeec298ad5a1694d528a536460ec3a18ae371036fef4a7ed704c.f7b1fd755d^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+			"files": [ "rsa-27-468.pdf" ]
+		}
+		{
+			"id": 475,
+			"ts":"2026-08-21T09:19:02Z",
+			"traceId": "ba03b90af6f320a0fb69b2f2d0c69e64",
+			"workflowInstanceId": "2.16.840.1.113883.2.9.2.10.4.4.0a6ddd53ee05aeec298ad5a1694d528a536460ec3a18ae371036fef4a7ed704c.70a724a7bc^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+			"files": [ "rsa-28-475.pdf" ]
+		}
+	]
+}
